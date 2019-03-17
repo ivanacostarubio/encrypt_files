@@ -1,0 +1,20 @@
+
+
+Reading files!
+
+
+############################
+path                 "/Users/ivan/code/rust/list_all_files/examples/file2"
+Generating new key ... 
+hex key [34, 96, 188, 122, 178, 224, 63, 249, 130, 230, 31, 124, 18, 186, 99, 208]
+base64 key "ImC8erLgP/mC5h98Erpj0A=="
+base64 encrypted     "UL0eU38p4c0JqowNZ1rfcIg99xIM3bmtLDx47v9tw0Eo5xAyeessz7u9mHI2jX33XEPv9frMn9GnaSC/6R/aNQ=="
+Encrypted            "UL0eU38p4c0JqowNZ1rfcIg99xIM3bmtLDx47v9tw0Eo5xAyeessz7u9mHI2jX33XEPv9frMn9GnaSC/6R/aNQ=="
+
+
+############################
+path                 "/Users/ivan/code/rust/list_all_files/examples/file1"
+READING KEY          "ImC8erLgP/mC5h98Erpj0A=="
+Base 64 Decoded      [34, 96, 188, 122, 178, 224, 63, 249, 130, 230, 31, 124, 18, 186, 99, 208]
+base64 encrypted     "Z4wFAZX9kssvbcheZHHDPT5Fockwh2ArEmFWuuqkgsE="
+Encrypted            "Z4wFAZX9kssvbcheZHHDPT5Fockwh2ArEmFWuuqkgsE="
